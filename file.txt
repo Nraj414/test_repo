@@ -1,2 +1,3 @@
 echo "Hello world"
-echo "pushing some code to Git repo"
+echo "pushing code to Git repository"
+echo "pushing some more code to Git repository"
