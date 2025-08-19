@@ -1,3 +1,6 @@
 echo "Hello world"
 echo "pushing code to Git repository"
 echo "pushing some more code to Git repository"
+Hello Jenkins
+Hello Jenkins
+Hello Jenkins
